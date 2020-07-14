@@ -3,7 +3,7 @@ Landing Portfolio Webpage
 Portfolio to get me into the job market, MOnday July 14 2020 ::
 By: Alvin Ngunjiri Maina
 ## Description
-This website created to give a reflection of myself as an upcoming programmer. It serves to provide viewers with the informations concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. This portfolio website contains all about me. It is sectioned namely name,about,skills, project and contact
+This website is created to give a reflection of myself as an upcoming web developer. It serves to provide viewers with the informations concerning me as a new programmer in the field. It also shows the track that i have taken to create some simple projects with their live links. This portfolio website contains all about me. It is sectioned namely name,about,skills, project and contact
 ## Setup/Installation Requirements
 * copy the repo link
 * Open a new tab in your local machine
